@@ -151,7 +151,7 @@ public class SignTileEntitySpecialRenderer extends SignTileEntityRenderer {
   /**
    * Converts a BufferedImage from java.awt to NativeImage in net.minecraft.client
    *
-   * @param bufferedImag: Buffered Image
+   * @param bufferedImage: Buffered Image
    * @return NativeImage
    */
   private NativeImage convertToNativeImage(BufferedImage bufferedImage) {
